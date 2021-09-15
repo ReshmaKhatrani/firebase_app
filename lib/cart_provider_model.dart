@@ -1,6 +1,4 @@
 import 'dart:collection';
-import 'package:equatable/equatable.dart';
-import 'package:provider/provider.dart';
 import 'package:flutter/material.dart';
 
 class CartModel extends ChangeNotifier {

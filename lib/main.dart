@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: MainPage());
+        home: Splash());
   }
 }
-// here is comment by develop
+// ready to merge from master to develop
